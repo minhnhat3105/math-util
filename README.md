@@ -8,7 +8,7 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://www.facebook.com/nhat.ta.000/)
-[Email](mailto:minhnhat3105@gmail.com)
+1. [Facebook](https://www.facebook.com/nhat.ta.000/)
+2. [Email](mailto:minhnhat3105@gmail.com)
 
 ####  © 2020 by DADDY 
