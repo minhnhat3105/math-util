@@ -17,7 +17,7 @@ public class MathUtility {
     public static final double PI = 3.1415;
     
     // hàm tính n! = 1.2.3..n!
-    // n! tăng nhanh, nên mình chỉ tính 20! tối da, 21! tràn (kiểu long)
+    // n! tăng nhanh, nên mình chỉ tính 20! tối đa, 21! tràn (kiểu long)
     // 0! = 1! = 1, quy ước
     // ko có âm giai thừa, nếu tham số n là âm, mình chửi, ném ra Exception
     public static long getFactorial(int n){
@@ -51,6 +51,5 @@ public class MathUtility {
         // vì ta phải nhìn bằng mắt để luận kết quả
         // cách xịn sò, ta dùng màu sắc xanh đỏ để luận kết quả đúng sai của hàm
         // cách này gọi là test automation
-        // thứ 3 ổng giảng tiếp
     }
 }
