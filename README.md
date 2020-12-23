@@ -1,4 +1,5 @@
 # Welcome to Math Utilitiy repository 
+![Practice CI with GitHub Actions using Ant and JUnit | © 2020 by Daddy](https://github.com/minhnhat3105/math-util/workflows/Practice%20CI%20with%20GitHub%20Actions%20using%20Ant%20and%20JUnit%20%7C%20%C2%A9%202020%20by%20Daddy/badge.svg)
 
 ### This repo contains the Java resource code to simulate the methods of Math class found in JDK
 
